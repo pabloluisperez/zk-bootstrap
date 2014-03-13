@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zk>
-	<config-name>zk-bootstrap</config-name><!-- used to resolve dependency -->
+	<config-name>zk-bootstrap-teralco</config-name><!-- used to resolve dependency -->
 	<!--
 	<depends>zk</depends>
 	-->
 	
   	<version>
 		<version-class>org.zkoss.addons.bootstrap.Version</version-class>
-		<version-uid>1.0.0</version-uid>
+		<version-uid>1.0.1</version-uid>
 	</version>
 </zk>

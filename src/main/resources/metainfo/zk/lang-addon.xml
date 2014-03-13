@@ -10,8 +10,8 @@
 	<language-name>xul/html</language-name>
 
 	<version>
-		<version-class>org.zkoss.addons.bootstrap.Version</version-class>
-		<version-uid>1.0.0</version-uid>
+		<version-class>org.teralco.addons.bootstrap.Version</version-class>
+		<version-uid>1.0.1</version-uid>
 		<zk-version>7.0.0</zk-version><!-- or later -->
 	</version>
 
